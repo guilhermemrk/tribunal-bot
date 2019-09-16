@@ -1,0 +1,17 @@
+{
+  "token": "",
+  "botid": "",
+  "prefix": ".",
+  "ownerid": "",
+  "ticketserverid": "",
+  "ticketchannelid": "",
+  "ticketcategory": "",
+  "logserverid": "",
+  "logchannelid": "",
+  "adminrole": "",
+  "cooldown": 180,
+  "dbpath": "./src/data/database.db",
+  "embedOkColor": "5594879",
+  "embedERRORColor": "16539487",
+  "embedLogColor": "12698049"
+}
